@@ -1,0 +1,19 @@
+To Run This Script You have Apply several commands Like 
+
+First you have to make a virtual environment 
+
+(python3 -m (environment_name))
+
+source environment_name/bin/activate
+
+pip3 install pyfiglet
+pip3 install socket
+pip3 install requests
+pip3 install whois
+pip3 install json
+pip3 install termcolor
+pip3 install dnspython
+pip3 install pythonping
+
+deactivate
+
