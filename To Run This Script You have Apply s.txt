@@ -16,4 +16,4 @@ pip3 install dnspython
 pip3 install pythonping
 
 deactivate
-
+python3 IP Matrix.py
